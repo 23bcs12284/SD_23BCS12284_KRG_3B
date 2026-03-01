@@ -12,7 +12,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        
         <mxCell id="9zVsuuq6j5Y7mHc817nz-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="160" y="596" as="geometry" />
         </mxCell>
